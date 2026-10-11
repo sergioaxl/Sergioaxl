@@ -28,7 +28,3 @@
   <a href="https://github.com/sergioaxl"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/sergio-axel-64833a354/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Hecho con ♥ y mucho café" />
-</p>
