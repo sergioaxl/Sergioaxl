@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="342" viewBox="0 0 960 342">
+<rect x="1" y="1" width="958" height="340" rx="12" fill="#0b1426" stroke="#22345a"/>
+<text x="240" y="38" text-anchor="middle" font-size="12" font-weight="bold" fill="#cbd8f5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">Skill Radar</text>
+<polygon points="240.0,147.0 261.7,159.5 261.7,184.5 240.0,197.0 218.3,184.5 218.3,159.5" fill="none" stroke="#22345a"/>
+<polygon points="240.0,122.0 283.3,147.0 283.3,197.0 240.0,222.0 196.7,197.0 196.7,147.0" fill="none" stroke="#22345a"/>
+<polygon points="240.0,97.0 305.0,134.5 305.0,209.5 240.0,247.0 175.0,209.5 175.0,134.5" fill="none" stroke="#22345a"/>
+<polygon points="240.0,72.0 326.6,122.0 326.6,222.0 240.0,272.0 153.4,222.0 153.4,122.0" fill="none" stroke="#22345a"/>
+<line x1="240" y1="172" x2="240.0" y2="72.0" stroke="#22345a"/>
+<line x1="240" y1="172" x2="326.6" y2="122.0" stroke="#22345a"/>
+<line x1="240" y1="172" x2="326.6" y2="222.0" stroke="#22345a"/>
+<line x1="240" y1="172" x2="240.0" y2="272.0" stroke="#22345a"/>
+<line x1="240" y1="172" x2="153.4" y2="222.0" stroke="#22345a"/>
+<line x1="240" y1="172" x2="153.4" y2="122.0" stroke="#22345a"/>
+<g transform="translate(240,172)"><g><animateTransform attributeName="transform" type="scale" values="0;1" dur="1.3s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/><polygon points="0.0,-85.0 69.3,-40.0 65.0,37.5 0.0,60.0 -56.3,32.5 -43.3,-25.0" fill="#6d28d9" fill-opacity="0.38" stroke="#8b5cf6" stroke-width="2"/><circle cx="0.0" cy="-85.0" r="3" fill="#a78bfa"/><circle cx="69.3" cy="-40.0" r="3" fill="#a78bfa"/><circle cx="65.0" cy="37.5" r="3" fill="#a78bfa"/><circle cx="0.0" cy="60.0" r="3" fill="#a78bfa"/><circle cx="-56.3" cy="32.5" r="3" fill="#a78bfa"/><circle cx="-43.3" cy="-25.0" r="3" fill="#a78bfa"/></g></g>
+<text x="240.0" y="60.0" text-anchor="middle" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">Backend</text>
+<text x="340.5" y="118.0" text-anchor="start" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">Bases de datos</text>
+<text x="340.5" y="234.0" text-anchor="start" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">Microservicios</text>
+<text x="240.0" y="292.0" text-anchor="middle" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">Frontend</text>
+<text x="139.5" y="234.0" text-anchor="end" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">IoT / Edge</text>
+<text x="139.5" y="118.0" text-anchor="end" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">DevOps</text>
+<text x="720" y="38" text-anchor="middle" font-size="12" font-weight="bold" fill="#cbd8f5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">Language Stack</text>
+<polygon points="720.0,147.0 743.8,164.3 734.7,192.2 705.3,192.2 696.2,164.3" fill="none" stroke="#22345a"/>
+<polygon points="720.0,122.0 767.6,156.5 749.4,212.5 690.6,212.5 672.4,156.5" fill="none" stroke="#22345a"/>
+<polygon points="720.0,97.0 791.3,148.8 764.1,232.7 675.9,232.7 648.7,148.8" fill="none" stroke="#22345a"/>
+<polygon points="720.0,72.0 815.1,141.1 778.8,252.9 661.2,252.9 624.9,141.1" fill="none" stroke="#22345a"/>
+<line x1="720" y1="172" x2="720.0" y2="72.0" stroke="#22345a"/>
+<line x1="720" y1="172" x2="815.1" y2="141.1" stroke="#22345a"/>
+<line x1="720" y1="172" x2="778.8" y2="252.9" stroke="#22345a"/>
+<line x1="720" y1="172" x2="661.2" y2="252.9" stroke="#22345a"/>
+<line x1="720" y1="172" x2="624.9" y2="141.1" stroke="#22345a"/>
+<g transform="translate(720,172)"><g><animateTransform attributeName="transform" type="scale" values="0;1" dur="1.3s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/><polygon points="0.0,-85.0 76.1,-24.7 47.0,64.7 -41.1,56.6 -76.1,-24.7" fill="#6d28d9" fill-opacity="0.38" stroke="#8b5cf6" stroke-width="2"/><circle cx="0.0" cy="-85.0" r="3" fill="#a78bfa"/><circle cx="76.1" cy="-24.7" r="3" fill="#a78bfa"/><circle cx="47.0" cy="64.7" r="3" fill="#a78bfa"/><circle cx="-41.1" cy="56.6" r="3" fill="#a78bfa"/><circle cx="-76.1" cy="-24.7" r="3" fill="#a78bfa"/></g></g>
+<text x="720.0" y="60.0" text-anchor="middle" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">Java</text>
+<text x="830.3" y="140.2" text-anchor="start" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">JavaScript</text>
+<text x="788.2" y="269.8" text-anchor="start" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">Python</text>
+<text x="651.8" y="269.8" text-anchor="end" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">C#</text>
+<text x="609.7" y="140.2" text-anchor="end" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">SQL</text>
+<text x="480" y="326" text-anchor="middle" font-size="10" fill="#6b7fa8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">signals: skill_radar · language_stack_radar · status: healthy</text>
+</svg>
